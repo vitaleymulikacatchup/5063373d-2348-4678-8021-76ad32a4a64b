@@ -26,7 +26,7 @@ export default function Home() {
       borderRadius="rounded"
     >
       <div id="nav" data-section="nav">
-        <NavbarStyleMinimal brandName="Coffee Haven" />
+        <NavbarStyleMinimal brandName="wfqwfqwf" />
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24 bg-pink-100">
         <div className="mx-auto px-4 md:px-6">
